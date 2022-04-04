@@ -1,0 +1,31 @@
+.banner{
+    padding: 8px 0;
+    h3{
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 8px;
+    }
+    div{
+        img{
+            width: 400px;
+            height: 200px;
+            border-radius: 8px;
+        }
+    }
+    .left{
+        color: #5d3ebc;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: -30px;
+        background: transparent;
+    }
+    .right{
+        color: #5d3ebc;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        right: -30px;
+        background: transparent;
+    }
+}

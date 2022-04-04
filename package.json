@@ -1,0 +1,33 @@
+{
+  "name": "getir",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-hook/window-size": "^3.0.7",
+    "init": "^0.1.2",
+    "pure-react-carousel": "^1.28.1",
+    "react": "^17.0.2",
+    "react-collapse": "^5.1.1",
+    "react-dom": "^17.0.2",
+    "react-flags-select": "^2.1.2",
+    "react-icons": "^4.3.1",
+    "react-responsive-carousel": "^3.2.23",
+    "react-slick": "^0.28.1",
+    "sass": "^1.49.9",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "autoprefixer": "^10.4.4",
+    "eslint-plugin-react-hooks": "^4.4.0",
+    "postcss": "^8.4.12",
+    "vite": "^2.8.0"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
